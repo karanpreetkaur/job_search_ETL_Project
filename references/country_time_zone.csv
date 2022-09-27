@@ -1,0 +1,425 @@
+Country or Territory,City,UTC Time Offset
+Burkina Faso,Ouagadougou,UTC
+Gambia,Banjul,UTC
+Ghana,Accra,UTC
+Greenland,Danmarkshavn,UTC
+Greenland,Scoresbysund,UTC
+Guinea,Conakry,UTC
+Guinea-Bissau,Bissau,UTC
+Iceland,Reykjavik,UTC
+Ivory Coast,Abidjan,UTC
+Liberia,Monrovia,UTC
+Mali,Bamako,UTC
+Mauritania,Nouakchott,UTC
+Portugal,Azores,UTC
+Saint Helena,St_Helena,UTC
+Senegal,Dakar,UTC
+Sierra Leone,Freetown,UTC
+Togo,Lome,UTC
+Algeria,Algiers,UTC +01:00
+Angola,Luanda,UTC +01:00
+Benin,Porto-Novo,UTC +01:00
+Cameroon,Douala,UTC +01:00
+Central African Republic,Bangui,UTC +01:00
+Chad,Ndjamena,UTC +01:00
+Democratic Republic Of The Congo,Kinshasa,UTC +01:00
+Equatorial Guinea,Malabo,UTC +01:00
+Faroe Islands,Faroe,UTC +01:00
+Gabon,Libreville,UTC +01:00
+Guernsey,Guernsey,UTC +01:00
+Ireland,Dublin,UTC +01:00
+Isle Of Man,Isle_of_Man,UTC +01:00
+Jersey,Jersey,UTC +01:00
+Morocco,Casablanca,UTC +01:00
+Niger,Niamey,UTC +01:00
+Nigeria,Lagos,UTC +01:00
+Portugal,Madeira,UTC +01:00
+Portugal,Lisbon,UTC +01:00
+Republic Of The Congo,Brazzaville,UTC +01:00
+Sao Tome And Principe,Sao_Tome,UTC +01:00
+Spain,Canary,UTC +01:00
+Tunisia,Tunis,UTC +01:00
+United Kingdom,London,UTC +01:00
+Western Sahara,El_Aaiun,UTC +01:00
+Albania,Tirane,UTC +02:00
+Andorra,Andorra,UTC +02:00
+Antarctica,Troll,UTC +02:00
+Austria,Vienna,UTC +02:00
+Belgium,Brussels,UTC +02:00
+Bosnia And Herzegovina,Sarajevo,UTC +02:00
+Botswana,Gaborone,UTC +02:00
+Burundi,Bujumbura,UTC +02:00
+Croatia,Zagreb,UTC +02:00
+Czech Republic,Prague,UTC +02:00
+Democratic Republic Of The Congo,Lubumbashi,UTC +02:00
+Denmark,Copenhagen,UTC +02:00
+Egypt,Cairo,UTC +02:00
+France,Paris,UTC +02:00
+Germany,Berlin,UTC +02:00
+Germany,Busingen,UTC +02:00
+Gibraltar,Gibraltar,UTC +02:00
+Hungary,Budapest,UTC +02:00
+Italy,Rome,UTC +02:00
+Lesotho,Maseru,UTC +02:00
+Libya,Tripoli,UTC +02:00
+Liechtenstein,Vaduz,UTC +02:00
+Luxembourg,Luxembourg,UTC +02:00
+Macedonia,Skopje,UTC +02:00
+Malawi,Blantyre,UTC +02:00
+Malta,Malta,UTC +02:00
+Monaco,Monaco,UTC +02:00
+Montenegro,Podgorica,UTC +02:00
+Mozambique,Maputo,UTC +02:00
+Namibia,Windhoek,UTC +02:00
+Netherlands,Amsterdam,UTC +02:00
+Norway,Oslo,UTC +02:00
+Poland,Warsaw,UTC +02:00
+Russia,Kaliningrad,UTC +02:00
+Rwanda,Kigali,UTC +02:00
+San Marino,San_Marino,UTC +02:00
+Serbia,Belgrade,UTC +02:00
+Slovakia,Bratislava,UTC +02:00
+Slovenia,Ljubljana,UTC +02:00
+South Africa,Johannesburg,UTC +02:00
+Spain,Ceuta,UTC +02:00
+Spain,Madrid,UTC +02:00
+Sudan,Khartoum,UTC +02:00
+Svalbard And Jan Mayen,Longyearbyen,UTC +02:00
+Swaziland,Mbabane,UTC +02:00
+Sweden,Stockholm,UTC +02:00
+Switzerland,Zurich,UTC +02:00
+Vatican,Vatican,UTC +02:00
+Zambia,Lusaka,UTC +02:00
+Zimbabwe,Harare,UTC +02:00
+Aland Islands,Mariehamn,UTC +03:00
+Antarctica,Syowa,UTC +03:00
+Bahrain,Bahrain,UTC +03:00
+Belarus,Minsk,UTC +03:00
+Bulgaria,Sofia,UTC +03:00
+Comoros,Comoro,UTC +03:00
+Cyprus,Famagusta,UTC +03:00
+Cyprus,Nicosia,UTC +03:00
+Djibouti,Djibouti,UTC +03:00
+Eritrea,Asmara,UTC +03:00
+Estonia,Tallinn,UTC +03:00
+Ethiopia,Addis_Ababa,UTC +03:00
+Finland,Helsinki,UTC +03:00
+Greece,Athens,UTC +03:00
+Iraq,Baghdad,UTC +03:00
+Israel,Jerusalem,UTC +03:00
+Jordan,Amman,UTC +03:00
+Kenya,Nairobi,UTC +03:00
+Kuwait,Kuwait,UTC +03:00
+Latvia,Riga,UTC +03:00
+Lebanon,Beirut,UTC +03:00
+Lithuania,Vilnius,UTC +03:00
+Madagascar,Antananarivo,UTC +03:00
+Mayotte,Mayotte,UTC +03:00
+Moldova,Chisinau,UTC +03:00
+Palestinian Territory,Gaza,UTC +03:00
+Palestinian Territory,Hebron,UTC +03:00
+Qatar,Qatar,UTC +03:00
+Romania,Bucharest,UTC +03:00
+Russia,Kirov,UTC +03:00
+Russia,Moscow,UTC +03:00
+Russia,Simferopol,UTC +03:00
+Russia,Volgograd,UTC +03:00
+Saudi Arabia,Riyadh,UTC +03:00
+Somalia,Mogadishu,UTC +03:00
+South Sudan,Juba,UTC +03:00
+Syria,Damascus,UTC +03:00
+Tanzania,Dar_es_Salaam,UTC +03:00
+Turkey,Istanbul,UTC +03:00
+Uganda,Kampala,UTC +03:00
+Ukraine,Kiev,UTC +03:00
+Ukraine,Uzhgorod,UTC +03:00
+Ukraine,Zaporozhye,UTC +03:00
+Yemen,Aden,UTC +03:00
+Armenia,Yerevan,UTC +04:00
+Azerbaijan,Baku,UTC +04:00
+Georgia,Tbilisi,UTC +04:00
+Mauritius,Mauritius,UTC +04:00
+Oman,Muscat,UTC +04:00
+Reunion,Reunion,UTC +04:00
+Russia,Astrakhan,UTC +04:00
+Russia,Samara,UTC +04:00
+Russia,Saratov,UTC +04:00
+Russia,Ulyanovsk,UTC +04:00
+Seychelles,Mahe,UTC +04:00
+United Arab Emirates,Dubai,UTC +04:00
+Afghanistan,Kabul,UTC +04:30
+Iran,Tehran,UTC +04:30
+Antarctica,Mawson,UTC +05:00
+French Southern Territories,Kerguelen,UTC +05:00
+Kazakhstan,Aqtau,UTC +05:00
+Kazakhstan,Aqtobe,UTC +05:00
+Kazakhstan,Atyrau,UTC +05:00
+Kazakhstan,Oral,UTC +05:00
+Maldives,Maldives,UTC +05:00
+Pakistan,Karachi,UTC +05:00
+Russia,Yekaterinburg,UTC +05:00
+Tajikistan,Dushanbe,UTC +05:00
+Turkmenistan,Ashgabat,UTC +05:00
+Uzbekistan,Samarkand,UTC +05:00
+Uzbekistan,Tashkent,UTC +05:00
+India,Kolkata,UTC +05:30
+Sri Lanka,Colombo,UTC +05:30
+Nepal,Kathmandu,UTC +05:45
+Antarctica,Vostok,UTC +06:00
+Bangladesh,Dhaka,UTC +06:00
+Bhutan,Thimphu,UTC +06:00
+British Indian Ocean Territory,Chagos,UTC +06:00
+China,Urumqi,UTC +06:00
+Kazakhstan,Almaty,UTC +06:00
+Kazakhstan,Qyzylorda,UTC +06:00
+Kyrgyzstan,Bishkek,UTC +06:00
+Russia,Omsk,UTC +06:00
+Cocos Islands,Cocos,UTC +06:30
+Myanmar,Yangon,UTC +06:30
+Antarctica,Davis,UTC +07:00
+Cambodia,Phnom_Penh,UTC +07:00
+Christmas Island,Christmas,UTC +07:00
+Indonesia,Jakarta,UTC +07:00
+Indonesia,Pontianak,UTC +07:00
+Laos,Vientiane,UTC +07:00
+Mongolia,Hovd,UTC +07:00
+Russia,Barnaul,UTC +07:00
+Russia,Krasnoyarsk,UTC +07:00
+Russia,Novokuznetsk,UTC +07:00
+Russia,Novosibirsk,UTC +07:00
+Russia,Tomsk,UTC +07:00
+Thailand,Bangkok,UTC +07:00
+Vietnam,Ho_Chi_Minh,UTC +07:00
+Antarctica,Casey,UTC +08:00
+Australia,Perth,UTC +08:00
+Brunei,Brunei,UTC +08:00
+China,Shanghai,UTC +08:00
+Hong Kong,Hong_Kong,UTC +08:00
+Indonesia,Makassar,UTC +08:00
+Macao,Macau,UTC +08:00
+Malaysia,Kuala_Lumpur,UTC +08:00
+Malaysia,Kuching,UTC +08:00
+Mongolia,Choibalsan,UTC +08:00
+Mongolia,Ulaanbaatar,UTC +08:00
+Philippines,Manila,UTC +08:00
+Russia,Irkutsk,UTC +08:00
+Singapore,Singapore,UTC +08:00
+Taiwan,Taipei,UTC +08:00
+North Korea,Pyongyang,UTC +08:30
+Australia,Eucla,UTC +08:45
+East Timor,Dili,UTC +09:00
+Indonesia,Jayapura,UTC +09:00
+Japan,Tokyo,UTC +09:00
+Palau,Palau,UTC +09:00
+Russia,Chita,UTC +09:00
+Russia,Khandyga,UTC +09:00
+Russia,Yakutsk,UTC +09:00
+South Korea,Seoul,UTC +09:00
+Australia,Adelaide,UTC +09:30
+Australia,Broken_Hill,UTC +09:30
+Australia,Darwin,UTC +09:30
+Antarctica,DumontDUrville,UTC +10:00
+Australia,Brisbane,UTC +10:00
+Australia,Currie,UTC +10:00
+Australia,Hobart,UTC +10:00
+Australia,Lindeman,UTC +10:00
+Australia,Melbourne,UTC +10:00
+Australia,Sydney,UTC +10:00
+Guam,Guam,UTC +10:00
+Micronesia,Chuuk,UTC +10:00
+Northern Mariana Islands,Saipan,UTC +10:00
+Papua New Guinea,Port_Moresby,UTC +10:00
+Russia,Ust-Nera,UTC +10:00
+Russia,Vladivostok,UTC +10:00
+Australia,Lord_Howe,UTC +10:30
+Australia,Macquarie,UTC +11:00
+Micronesia,Kosrae,UTC +11:00
+Micronesia,Pohnpei,UTC +11:00
+New Caledonia,Noumea,UTC +11:00
+Norfolk Island,Norfolk,UTC +11:00
+Papua New Guinea,Bougainville,UTC +11:00
+Russia,Magadan,UTC +11:00
+Russia,Sakhalin,UTC +11:00
+Russia,Srednekolymsk,UTC +11:00
+Solomon Islands,Guadalcanal,UTC +11:00
+Vanuatu,Efate,UTC +11:00
+Antarctica,McMurdo,UTC +12:00
+Fiji,Fiji,UTC +12:00
+Kiribati,Tarawa,UTC +12:00
+Marshall Islands,Kwajalein,UTC +12:00
+Marshall Islands,Majuro,UTC +12:00
+Nauru,Nauru,UTC +12:00
+New Zealand,Auckland,UTC +12:00
+Russia,Anadyr,UTC +12:00
+Russia,Kamchatka,UTC +12:00
+Tuvalu,Funafuti,UTC +12:00
+United States Minor Outlying Islands,Wake,UTC +12:00
+Wallis And Futuna,Wallis,UTC +12:00
+New Zealand,Chatham,UTC +12:45
+Kiribati,Enderbury,UTC +13:00
+Samoa,Apia,UTC +13:00
+Tokelau,Fakaofo,UTC +13:00
+Tonga,Tongatapu,UTC +13:00
+Kiribati,Kiritimati,UTC +14:00
+Cape Verde,Cape_Verde,UTC -01:00
+Brazil,Noronha,UTC -02:00
+Greenland,Godthab,UTC -02:00
+Saint Pierre And Miquelon,Miquelon,UTC -02:00
+South Georgia And The South Sandwich Islands,South_Georgia,UTC -02:00
+Canada,St_Johns,UTC -02:30
+Antarctica,Palmer,UTC -03:00
+Antarctica,Rothera,UTC -03:00
+Argentina,Buenos_Aires,UTC -03:00
+Argentina,Catamarca,UTC -03:00
+Argentina,Cordoba,UTC -03:00
+Argentina,Jujuy,UTC -03:00
+Argentina,La_Rioja,UTC -03:00
+Argentina,Mendoza,UTC -03:00
+Argentina,Rio_Gallegos,UTC -03:00
+Argentina,Salta,UTC -03:00
+Argentina,San_Juan,UTC -03:00
+Argentina,San_Luis,UTC -03:00
+Argentina,Tucuman,UTC -03:00
+Argentina,Ushuaia,UTC -03:00
+Bermuda,Bermuda,UTC -03:00
+Brazil,Araguaina,UTC -03:00
+Brazil,Bahia,UTC -03:00
+Brazil,Belem,UTC -03:00
+Brazil,Fortaleza,UTC -03:00
+Brazil,Maceio,UTC -03:00
+Brazil,Recife,UTC -03:00
+Brazil,Santarem,UTC -03:00
+Brazil,Sao_Paulo,UTC -03:00
+Canada,Glace_Bay,UTC -03:00
+Canada,Goose_Bay,UTC -03:00
+Canada,Halifax,UTC -03:00
+Canada,Moncton,UTC -03:00
+Chile,Punta_Arenas,UTC -03:00
+Chile,Santiago,UTC -03:00
+Falkland Islands,Stanley,UTC -03:00
+French Guiana,Cayenne,UTC -03:00
+Greenland,Thule,UTC -03:00
+Suriname,Paramaribo,UTC -03:00
+Uruguay,Montevideo,UTC -03:00
+Anguilla,Anguilla,UTC -04:00
+Antigua And Barbuda,Antigua,UTC -04:00
+Aruba,Aruba,UTC -04:00
+Bahamas,Nassau,UTC -04:00
+Barbados,Barbados,UTC -04:00
+Bolivia,La_Paz,UTC -04:00
+"Bonaire, Saint Eustatius And Saba",Kralendijk,UTC -04:00
+Brazil,Boa_Vista,UTC -04:00
+Brazil,Campo_Grande,UTC -04:00
+Brazil,Cuiaba,UTC -04:00
+Brazil,Manaus,UTC -04:00
+Brazil,Porto_Velho,UTC -04:00
+British Virgin Islands,Tortola,UTC -04:00
+Canada,Blanc-Sablon,UTC -04:00
+Canada,Iqaluit,UTC -04:00
+Canada,Nipigon,UTC -04:00
+Canada,Pangnirtung,UTC -04:00
+Canada,Thunder_Bay,UTC -04:00
+Canada,Toronto,UTC -04:00
+Cuba,Havana,UTC -04:00
+Curacao,Curacao,UTC -04:00
+Dominica,Dominica,UTC -04:00
+Dominican Republic,Santo_Domingo,UTC -04:00
+Grenada,Grenada,UTC -04:00
+Guadeloupe,Guadeloupe,UTC -04:00
+Guyana,Guyana,UTC -04:00
+Haiti,Port-au-Prince,UTC -04:00
+Martinique,Martinique,UTC -04:00
+Montserrat,Montserrat,UTC -04:00
+Paraguay,Asuncion,UTC -04:00
+Puerto Rico,Puerto_Rico,UTC -04:00
+Saint Barthelemy,St_Barthelemy,UTC -04:00
+Saint Kitts And Nevis,St_Kitts,UTC -04:00
+Saint Lucia,St_Lucia,UTC -04:00
+Saint Martin,Marigot,UTC -04:00
+Saint Vincent And The Grenadines,St_Vincent,UTC -04:00
+Sint Maarten,Lower_Princes,UTC -04:00
+Trinidad And Tobago,Port_of_Spain,UTC -04:00
+Turks And Caicos Islands,Grand_Turk,UTC -04:00
+U.S. Virgin Islands,St_Thomas,UTC -04:00
+United States,Detroit,UTC -04:00
+United States,Indianapolis,UTC -04:00
+United States,Marengo,UTC -04:00
+United States,Petersburg,UTC -04:00
+United States,Vevay,UTC -04:00
+United States,Vincennes,UTC -04:00
+United States,Winamac,UTC -04:00
+United States,Louisville,UTC -04:00
+United States,Monticello,UTC -04:00
+United States,New_York,UTC -04:00
+Venezuela,Caracas,UTC -04:00
+Brazil,Eirunepe,UTC -05:00
+Brazil,Rio_Branco,UTC -05:00
+Canada,Atikokan,UTC -05:00
+Canada,Rainy_River,UTC -05:00
+Canada,Rankin_Inlet,UTC -05:00
+Canada,Resolute,UTC -05:00
+Canada,Winnipeg,UTC -05:00
+Cayman Islands,Cayman,UTC -05:00
+Chile,Easter,UTC -05:00
+Colombia,Bogota,UTC -05:00
+Ecuador,Guayaquil,UTC -05:00
+Jamaica,Jamaica,UTC -05:00
+Mexico,Bahia_Banderas,UTC -05:00
+Mexico,Cancun,UTC -05:00
+Mexico,Matamoros,UTC -05:00
+Mexico,Merida,UTC -05:00
+Mexico,Mexico_City,UTC -05:00
+Mexico,Monterrey,UTC -05:00
+Panama,Panama,UTC -05:00
+Peru,Lima,UTC -05:00
+United States,Chicago,UTC -05:00
+United States,Knox,UTC -05:00
+United States,Tell_City,UTC -05:00
+United States,Menominee,UTC -05:00
+United States,Beulah,UTC -05:00
+United States,Center,UTC -05:00
+United States,New_Salem,UTC -05:00
+Belize,Belize,UTC -06:00
+Canada,Cambridge_Bay,UTC -06:00
+Canada,Edmonton,UTC -06:00
+Canada,Inuvik,UTC -06:00
+Canada,Regina,UTC -06:00
+Canada,Swift_Current,UTC -06:00
+Canada,Yellowknife,UTC -06:00
+Costa Rica,Costa_Rica,UTC -06:00
+Ecuador,Galapagos,UTC -06:00
+El Salvador,El_Salvador,UTC -06:00
+Guatemala,Guatemala,UTC -06:00
+Honduras,Tegucigalpa,UTC -06:00
+Mexico,Chihuahua,UTC -06:00
+Mexico,Mazatlan,UTC -06:00
+Mexico,Ojinaga,UTC -06:00
+Nicaragua,Managua,UTC -06:00
+United States,Boise,UTC -06:00
+United States,Denver,UTC -06:00
+Canada,Creston,UTC -07:00
+Canada,Dawson,UTC -07:00
+Canada,Dawson_Creek,UTC -07:00
+Canada,Fort_Nelson,UTC -07:00
+Canada,Vancouver,UTC -07:00
+Canada,Whitehorse,UTC -07:00
+Mexico,Hermosillo,UTC -07:00
+Mexico,Tijuana,UTC -07:00
+United States,Los_Angeles,UTC -07:00
+United States,Phoenix,UTC -07:00
+Pitcairn,Pitcairn,UTC -08:00
+United States,Anchorage,UTC -08:00
+United States,Juneau,UTC -08:00
+United States,Metlakatla,UTC -08:00
+United States,Nome,UTC -08:00
+United States,Sitka,UTC -08:00
+United States,Yakutat,UTC -08:00
+French Polynesia,Gambier,UTC -09:00
+United States,Adak,UTC -09:00
+French Polynesia,Marquesas,UTC -09:30
+Cook Islands,Rarotonga,UTC -10:00
+French Polynesia,Tahiti,UTC -10:00
+United States,Honolulu,UTC -10:00
+American Samoa,Pago_Pago,UTC -11:00
+Niue,Niue,UTC -11:00
+United States Minor Outlying Islands,Midway,UTC -11:00

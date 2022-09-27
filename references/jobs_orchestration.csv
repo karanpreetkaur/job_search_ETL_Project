@@ -1,0 +1,5 @@
+job_id,job_name ,job_query,active_flag
+1001,Create online taxi service database,python create_online_taxi_service_database.py,Y
+1002,Generate weblogs,python create_weblogs.py --number_of_logs=100000,Y
+1003,Transform and load weblogs into target datawarehouse,python transform_logs_load.py,Y
+1004,Transform and load b2bdata into target datawarehouse,python transform_b2b_load.py,N
