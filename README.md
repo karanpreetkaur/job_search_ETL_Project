@@ -29,7 +29,7 @@ Prequisites dependencies: `pip`, `pgadmin`
 
    Run `poetry run python etl_logging.py` in cmd
 
-8. To start the ETL process i.e. extract data from b2bdatabase, weblogs, transform them and load into target.
+8. To start the ETL process i.e. extract data from taxiservice database, weblogs, transform them and load into target.
 
    Run `poetry run python etl_job_run.py` in cmd
 
@@ -38,8 +38,8 @@ Prequisites dependencies: `pip`, `pgadmin`
    - To restart the jobs, Run `poetry run python etl_job_run.py --run_type='restart'` in cmd
 
 ## ETL Process
-- ### B2B database
-  - B2B database consists of companies, customer, suppliers, companies_customer, catalog, orders tables. These tables are created and populated with generated data by script `create_online_taxi_service_database.py`. In script, database connection is established using pyschopg and sqlalchemy and data is pushed to B2B tables.
+- ### Online taxi service database
+  - Online taxi service database consists of driver, car_model, cab, cab_ride, cab_ride_status, payment tables. These tables are created and populated with generated data by script `create_online_taxi_service_database.py`. In script, database connection is established using pyschopg and sqlalchemy and data is pushed to these tables.
 
 - ### Weblogs
   - To generate weblogs in combined log format, I have used python script `create_weblogs.py` which saves logs in weblogs.log file.
