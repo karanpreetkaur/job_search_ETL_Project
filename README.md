@@ -1,4 +1,6 @@
 # ETL Pipeline - Online Taxi Service
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQlayqzsGKT9iVuqr9-LIEoZVsISUQPohF7l2LBnZd4pPIhpvhF8vqz__GFcZXMhtefd4Z9oFkjuTA/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## 1.1 Setting up run environment
 
 For this project, I have used `poetry` for dependency management. Dependencies are maintained in a poetry file `pyproject.toml`. To run the code in your workspace, follow these instructions:
