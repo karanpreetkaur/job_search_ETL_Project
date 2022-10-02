@@ -1,5 +1,5 @@
 # ETL Pipeline - Online Taxi Service
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQlayqzsGKT9iVuqr9-LIEoZVsISUQPohF7l2LBnZd4pPIhpvhF8vqz__GFcZXMhtefd4Z9oFkjuTA/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+A short presentation - https://docs.google.com/presentation/d/e/2PACX-1vTQlayqzsGKT9iVuqr9-LIEoZVsISUQPohF7l2LBnZd4pPIhpvhF8vqz__GFcZXMhtefd4Z9oFkjuTA/pub?start=true&loop=true&delayms=3000
 
 ## 1.1 Setting up run environment
 
